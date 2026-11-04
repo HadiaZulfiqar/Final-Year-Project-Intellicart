@@ -71,6 +71,8 @@ and the graphical user interface—the final phase involved integrating all hard
 components into a single, compact enclosure. A custom-designed acrylic or ABS plastic case was fabricated to house the Raspberry Pi 4, power circuitry, and peripheral connections. Care was taken to ensure sufficient ventilation and accessibility to ports for debugging or maintenance. Cable management was optimized to avoid clutter and accidental disconnections, especially given the mobile nature of the cart. 
 <img width="532" height="173" alt="image" src="https://github.com/user-attachments/assets/ac591a09-7027-4dd6-aa62-bd3dbc5b2d4b" />
 
+<img width="768" height="355" alt="image" src="https://github.com/user-attachments/assets/a5daf5c2-1ab0-4655-bd58-807b9887bd1b" />
+
 <h3>Software Integration</h3>
 The user interface was developed using Python’s Tkinter library and tested on a 
 7-inch capacitive touchscreen display. During operation, the GUI dynamically updated 
@@ -86,5 +88,5 @@ maintained stable communication with the MongoDB database, with no significant
 latency or performance bottlenecks observed. 
 <img width="1845" height="538" alt="image" src="https://github.com/user-attachments/assets/9d19fcc1-6733-4564-8797-591838bcc23d" />
 
-<img width="768" height="355" alt="image" src="https://github.com/user-attachments/assets/a5daf5c2-1ab0-4655-bd58-807b9887bd1b" />
+
 
