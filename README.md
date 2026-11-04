@@ -22,6 +22,7 @@ Cards. The RFID Reader operates at 13.56MHz and supports communication protocols
 like SPI, I2C, and UART, offering fast and reliable tag detection with a read range of 
 approximately 5cm. It features low power consumption (13-26mA) and supports 
 multiple data rates up to 10Mbps.  
+
 <img width="640" height="383" alt="image" src="https://github.com/user-attachments/assets/1fa02e69-0564-4eec-9b6c-754ef91b0807" />
 
 
